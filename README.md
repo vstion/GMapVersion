@@ -1,0 +1,2 @@
+# GMapVersion
+new version
